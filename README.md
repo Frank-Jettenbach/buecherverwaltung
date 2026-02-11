@@ -17,27 +17,22 @@ Self-Hosted Webanwendung zur Verwaltung einer persönlichen Büchersammlung. Geb
 - **Responsive** — Optimiert für Desktop, Tablet und Smartphone
 - **Tastenkürzel** — `Strg+N` (Neues Buch), `Strg+K` (Suche), `Escape` (Schließen)
 
-## Screenshot
+## Screenshots
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  📚 Bücherverwaltung          Bücher  Links  Befehle   │
-├──────────────┬──────────────────────────────────────────┤
-│ KATEGORIEN   │  🔍 Bücher durchsuchen...    [+ Neues]  │
-│              │  Alle | Gelesen | Ungelesen | Ausg.|Gel. │
-│ 📚 Alle (12) │──────────────────────────────────────────│
-│ 🧙 Fantasy  1│  FANTASY                     1 Buch     │
-│ 🚀 Sci-Fi   2│  Der Herr der Ringe  Tolkien  ★★★★★  ✓ │
-│ 💻 IT       2│──────────────────────────────────────────│
-│ …            │  SCIENCE-FICTION              2 Bücher   │
-│──────────────│  1984          Orwell   1949  ★★★★★  ✓  │
-│ STATISTIKEN  │  Dune          Herbert  1965  ★★★★★  ✓  │
-│ 12  Gesamt   │  …                                      │
-│  9  Gelesen  │                                          │
-│  3  Ungelesen│                                          │
-│ 4.6 Ø Bew.  │                                          │
-└──────────────┴──────────────────────────────────────────┘
-```
+### Hauptansicht
+Büchertabelle mit Sidebar-Kategorien, Sternebewertung, Status-Badges und Statistiken.
+
+![Hauptansicht](screenshots/01_hauptansicht.png)
+
+### Buch hinzufügen / bearbeiten
+Formular mit Kategorie-Dropdown, Sternebewertung, Gelesen-Toggle und Ausleih-Checkboxen.
+
+![Neues Buch](screenshots/02_neues_buch.png)
+
+### Lösch-Bestätigung
+Sicherheitsabfrage vor dem Löschen eines Buches.
+
+![Löschen](screenshots/03_loeschen.png)
 
 ## Voraussetzungen
 

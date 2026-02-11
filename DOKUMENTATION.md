@@ -33,6 +33,8 @@ Die Bücherverwaltung ist eine Self-Hosted Webanwendung zur Verwaltung einer per
 
 **Technologien:** PHP 7.4+, MySQL/MariaDB, Vanilla JavaScript, CSS3
 
+![Hauptansicht](screenshots/01_hauptansicht.png)
+
 ---
 
 ## Bedienungsanleitung
@@ -62,6 +64,8 @@ Die Anwendung besteht aus drei Bereichen:
 ---
 
 ### Bücher hinzufügen
+
+![Neues Buch Formular](screenshots/02_neues_buch.png)
 
 1. Klicke auf den Button **„+ Neues Buch"** in der Toolbar (oder drücke `Strg+N`)
 2. Fülle das Formular aus:
@@ -106,6 +110,8 @@ Klicke direkt auf das Status-Badge (z.B. „✓ Gelesen" oder „○ Ungelesen")
 ---
 
 ### Bücher löschen
+
+![Lösch-Bestätigung](screenshots/03_loeschen.png)
 
 1. In der Büchertabelle auf das **Mülleimer-Symbol** (🗑) klicken
 2. Es erscheint eine Sicherheitsabfrage mit dem Buchtitel
